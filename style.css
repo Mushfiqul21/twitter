@@ -1,0 +1,80 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.main{
+	width: 100%;
+	overflow: hidden;
+}
+.left{
+	width: 55%;
+	float: left;
+}
+.right{
+	width: 45%;
+	float: left;
+	font-family: arial;
+
+}
+.i{
+	margin-left: 20px;
+	margin-top: 72px;
+}
+.a{
+	margin-top: 68px;
+	margin-left: 20px;
+	letter-spacing: -1.5px;
+	font-size: 36px;
+
+}
+.a2{
+	margin-top: 48px;
+	margin-left: 20px;
+	letter-spacing: -1.5px;
+	font-size: 25px;
+}
+.login-1{
+margin-top: 28px;
+margin-left: 20px;
+}
+.login-2{
+	margin-top: 20px;
+	margin-left: 20px;
+}
+.login-1 input{
+	width: 380px;
+	font-size: 14px;
+	background-color: #1A91DA;
+	border-radius: 20px;
+	color: white;
+	padding: 15px;
+	font-weight: bold;
+}
+.login-2 input{
+	width: 380px;
+	font-size: 14px;
+	border: 1px solid #1A91DA ;
+	border-radius: 20px;
+	background-color: #FFFFFF;
+	color: #1A91DA;
+	padding: 15px;
+	font-weight: bold;
+}
+.footer{
+ text-align: center;
+ margin-top: 13px;
+}
+.footer ul li a{
+	text-decoration: none;
+	font-size: 13px;
+	padding: 9px;
+	color: #536471;
+}
+.footer ul li{
+	display: inline-block;
+}
+.footer p{
+	color: #536471;
+	font-size: 13px;
+	padding-top: 6px;
+}
